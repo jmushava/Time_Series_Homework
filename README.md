@@ -5,7 +5,7 @@
 
 *Question: Do you see any patterns, long-term and/or short?*
 
-- Based on the plot above, we can see a long-term strengthening of the Japanese Yen against the Dollar. The medium-term time frame of 1-3 year shows consistent trends, but on a daily basis, there are a lot of short-term ups and downs.
+- Based on the initial time series plot above, we can see a long-term strengthening of the Japanese Yen against the Dollar. The medium-term time frame of 1-3 year shows consistent trends, but on a daily basis, there are a lot of short-term ups and downs.
 
 ### Conclusion
 
