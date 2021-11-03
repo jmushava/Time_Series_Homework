@@ -4,8 +4,8 @@
 
 ### Models Used:
 
-1. ARMA Model-
-2. ARIMA Model-
+1. ARMA Model- ARMA models use past values and past errors to predict future values. An ARMA model assumes stationarity. This means that the statistical properties of do not change over time
+2. ARIMA Model- ARIMA is similar to ARMA, but does not assume stationarity.
 
 ### Return Forecasting: Initial Time-Series Plotting
 
@@ -28,7 +28,7 @@
 
 ### Model Used:
 
-1. Linear Regression Model
+1. Linear Regression Model- It models data with a linear trend
 
 ### Conclusion
 
