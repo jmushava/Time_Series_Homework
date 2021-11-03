@@ -1,6 +1,12 @@
 # Time Series Homework
 
 ## 1. Time Series Analysis Notebook:
+
+### Models Used:
+
+1. ARMA Model-
+2. ARIMA Model-
+
 ### Return Forecasting: Initial Time-Series Plotting
 
 *Question: Do you see any patterns, long-term and/or short?*
@@ -19,6 +25,10 @@
 * Yes, I would. I feel that the models are a good representation of YEN's expected future performance 
 
 ## 2. Regression Analysis Notebook:
+
+### Model Used:
+
+1. Linear Regression Model
 
 ### Conclusion
 
